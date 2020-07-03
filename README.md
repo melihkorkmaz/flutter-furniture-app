@@ -2,9 +2,9 @@
 
 A simple Flutter project.
 
-![alt text](https://raw.githubusercontent.com/melihkorkmaz/flutter-furniture-app/master/screenshot-1.jpg | width=300)
+<img src="https://raw.githubusercontent.com/melihkorkmaz/flutter-furniture-app/master/screenshot-1.jpg" width="300">
 
-![alt text](https://raw.githubusercontent.com/melihkorkmaz/flutter-furniture-app/master/screenshot-2.jpg | width=300)
+<img src="https://raw.githubusercontent.com/melihkorkmaz/flutter-furniture-app/master/screenshot-2.jpg" width="300">
 
 
 ## Getting Started
