@@ -1,6 +1,11 @@
-# furniture_app
+# Furniture app
 
-A new Flutter project.
+A simple Flutter project.
+
+![alt text](https://raw.githubusercontent.com/melihkorkmaz/flutter-furniture-app/master/screenshot-1.jpg)
+
+![alt text](https://raw.githubusercontent.com/melihkorkmaz/flutter-furniture-app/master/screenshot-2.jpg)
+
 
 ## Getting Started
 
